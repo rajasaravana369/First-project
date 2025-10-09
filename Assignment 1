@@ -1,0 +1,27 @@
+# Task 1
+a=int(input('Enter the First Number :' ))
+print(a)
+b=int(input('Enter the sencond Number :' ))
+print(b)
+c=a+b
+c=int(c)
+print('Addtion:',c)
+d=a-b
+d=int(d)
+print('Subtraction:',d)
+e=a*b
+e=int(e)
+print('Multiplication:',e)
+f=a/b
+f=int(f)
+print('Division:',f)
+
+
+
+# Task 2
+
+a=input('Enter your first name: ')
+
+b=input('Enter your last name: ')
+
+print(('Hello ' +a+ ' '+b +'!' + ' Wlecome'+' to'+' the'+' Python'+' program'))
